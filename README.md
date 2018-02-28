@@ -8,3 +8,6 @@ Programs to present:
 3. Microsoft and Brookings Institution’s “Signs of Digital Distress: Mapping broadband availability in Charleston, WV”
 4. Social tech training events using the Raspberry Pi mini computer
 5. A research-driven tech curriculum system focusing on standardization and flexibility
+
+
+https://www.makeuseof.com/tag/learn-python-electronics-minecraft-pi-edition/
